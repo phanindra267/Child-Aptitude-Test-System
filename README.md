@@ -1,4 +1,3 @@
-Child-Aptitude-Test-System
 🧠 Child Aptitude Test System
 
 A full-stack application for assessing children's aptitudes with age-appropriate tests.
