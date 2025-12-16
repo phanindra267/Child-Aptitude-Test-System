@@ -33,5 +33,3 @@ Prerequisites
 - Node.js 16+
 - MongoDB 5+
 - npm or yarn
-
-./setup.sh
